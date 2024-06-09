@@ -1,0 +1,28 @@
+digraph G
+{
+node [shape = circle]
+node [style = filled]
+node [fillcolor = "#EEEEE"]
+node [color = "#EEEEE"]
+edge [color = "#31CEFO"]
+1643762240109[label = "Aaraón Amilkar Buch Oxcal"]
+1932759530101[label = "Aarom Tezén Say"]
+1803098030101[label = "Aarom Salomon Solis Calderón"]
+1803098030101->1643762240109
+1803098030101->1932759530101
+2104459710101[label = "Aarom Anibal Tubac Santos"]
+2265375440101[label = "Aamsy Domínguez Escobar"]
+2265375440101->2104459710101
+1943975131804[label = "Aara Bella Cabrera Peña"]
+1943975131804->1803098030101
+1943975131804->2265375440101
+2382686240101[label = "Aamsy Aimeé Rivera Dominguez"]
+2414611460101[label = "Aarom Estuardo Mazariegos Morales"]
+2391572571401[label = "Aaraón Heliodoro López Lux"]
+2391572571401->2382686240101
+2391572571401->2414611460101
+2331923440901[label = "Aandrea Bol Zuñiga"]
+2331923440901->1943975131804
+2331923440901->2391572571401
+
+}
